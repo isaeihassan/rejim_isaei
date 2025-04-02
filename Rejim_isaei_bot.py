@@ -1,7 +1,5 @@
 import telebot from telebot import types
 
-7639099981:AAEZDr8_6uRDOCi0M75tzHbBjDqu5ptxin4 
-
 TOKEN = "7639099981:AAEZDr8_6uRDOCi0M75tzHbBjDqu5ptxin4 " bot = telebot.TeleBot(TOKEN)
 
 ذخیره اطلاعات کاربران
